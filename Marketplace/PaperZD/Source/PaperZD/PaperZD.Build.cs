@@ -68,5 +68,7 @@ public class PaperZD : ModuleRules
 				// ... add any modules that your module loads dynamically here ...
 			}
 			);
+
+		bUsePrecompiled = true;
 	}
 }
